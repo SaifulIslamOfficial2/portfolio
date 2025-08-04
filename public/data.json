@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "icon": "FaBusinessTime",
+      "title": "Business Strategy",
+      "dis": "I throw myself down among the tall grass by the stream as I lie close to the earth."
+    },
+    {
+      "id": 2,
+      "icon": "FaCode",
+      "title": "Web Development",
+      "dis": "I throw myself down among the tall grass by the stream as I lie close to the earth."
+    },
+    {
+      "id": 3,
+      "icon": "FaBusinessTime",
+      "title": "Business Strategy",
+      "dis": "I throw myself down among the tall grass by the stream as I lie close to the earth."
+    },
+    {
+      "id": 4,
+      "icon": "FaBullhorn",
+      "title": "CEO Marketing",
+      "dis": "I throw myself down among the tall grass by the stream as I lie close to the earth."
+    },
+    {
+      "id": 5,
+      "icon": "FaBusinessTime",
+      "title": "Business Strategy",
+      "dis": "I throw myself down among the tall grass by the stream as I lie close to the earth."
+    },
+    {
+      "id": 6,
+      "icon": "FaFolderOpen",
+      "title": "Personal Portfolio",
+      "dis": "I throw myself down among the tall grass by the stream as I lie close to the earth."
+    }
+  ],
+  "dataTow": [
+    {
+      "id": 1,
+      "image": "FaRocket",
+      "category": "gallery",
+      "number":"330",
+      "title": " The services provide for design",
+      "dis": "Rise above the challenges and achieve remarkable milestones with a focused strategy."
+    },
+    {
+      "id": 1,
+      "icon": "FaRocket",
+      "category": "gallery",
+      "number":"330",
+      "title": " The services provide for design",
+      "dis": "Rise above the challenges and achieve remarkable milestones with a focused strategy."
+    },
+    {
+      "id": 1,
+      "icon": "FaRocket",
+      "category": "gallery",
+      "number":"330",
+      "title": " The services provide for design",
+      "dis": "Rise above the challenges and achieve remarkable milestones with a focused strategy."
+    }
+   
+  ]
+}
